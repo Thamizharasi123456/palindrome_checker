@@ -1,0 +1,32 @@
+#container{
+    margin-top:100px;
+    text-align: center;
+    width:400px;
+    height:300px;
+    border :1px solid green;
+    border-radius:10px;
+    font-size:20px;
+    background:linear-gradient(rgb(247, 163, 177),rgb(238, 59, 89),rgb(243, 12, 51))
+
+}
+h1{
+    color:green;
+}
+input{
+    width:80%;
+    font-size: 20px;
+    border:none;
+
+}
+button
+{
+    font-size:25px;
+    color:red;
+    border:none;
+    background-color:pink;
+}
+#result{
+    font-size:30px;
+    margin-top:20px;
+    color:white;
+}
